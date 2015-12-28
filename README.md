@@ -1,4 +1,6 @@
-DOWNLOAD THE GAME HERE!
+Project for CS 4590 - Computer Audio
+
+Download the game here!
 
 https://drive.google.com/file/d/0B1c-wqJy78DKcnFRUm5kY1lpMDQ/view?usp=sharing
 
